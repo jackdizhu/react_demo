@@ -22,7 +22,7 @@ var gulp = require('gulp'),
   webpack= require('webpack'),
   webpack_config = require('./webpack.config.js');
 
-  var basePath = 'app/public/';
+  var basePath = 'public/';
 
   // less 编译
   gulp.task('less',(event) => {
