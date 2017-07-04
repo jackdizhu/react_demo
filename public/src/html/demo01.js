@@ -1,6 +1,6 @@
-import React from '../js/react.min.js';
+import React from 'react';
 
-var ProductBox = React.createClass({
+var Demo01 = React.createClass({
   render: function () {
     return (
       <div className="productBox">
@@ -10,4 +10,4 @@ var ProductBox = React.createClass({
   }
 });
 
-export {ProductBox}
+export {Demo01};
