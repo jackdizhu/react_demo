@@ -1,5 +1,6 @@
-# 过滤文件
- *.config
-
-# 过滤文件夹
- node_modules
+# 忽略文件
+package-lock.json
+# 不忽略 文件
+!.gitignore
+# 忽略文件夹
+/node_modules/*
