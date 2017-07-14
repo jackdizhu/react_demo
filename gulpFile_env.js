@@ -67,7 +67,7 @@ var gulp = require('gulp'),
       .pipe(gulp_webpack(webpack_config,webpack))
       .pipe(gulp.dest(basePath + 'dist/js/'))
       .pipe(devHtml({
-        files: ['./public/html/demo03.html']
+        files: ['./public/html/demo04.html']
       }))
       // .pipe(livereload());
   });
