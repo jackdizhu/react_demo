@@ -3,4 +3,3 @@ package-lock.json
 # 不忽略 文件
 !.gitignore
 # 忽略文件夹
-/node_modules/*
