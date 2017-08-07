@@ -1,6 +1,6 @@
 import React from 'react';
 
-var Demo04 = React.createClass({
+var Demo05 = React.createClass({
   data: [
     {a: ['1','2','3']},
     {b: ['1','2','3']}
@@ -22,4 +22,4 @@ var Demo04 = React.createClass({
   }
 });
 
-export {Demo04};
+export {Demo05};
