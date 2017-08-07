@@ -2,10 +2,10 @@
     import React from 'react';
     import ReactDOM from 'react-dom';
 
-    import {Demo05} from './html/demo05.js';
+    import {Demo04} from './html/demo04.js';
 
     ReactDOM.render(
-        <Demo05/>,
+        <Demo04/>,
         document.getElementById('app')
     );
 
